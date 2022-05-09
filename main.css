@@ -1,0 +1,32 @@
+
+        button {
+            
+            width: 70px;
+            height: 100px;
+            margin: 2px;
+            
+            
+            
+        }
+        .tm{
+        
+            display: flex;
+            margin-top: 60px;
+    
+            justify-content: center;
+        }
+
+        div{
+         background-color: lightgray;;
+        }
+      
+     .olu{
+         width: 50px;
+         height: 30px; 
+         background-color: green;
+         color: white;
+
+        
+     }
+        
+    
